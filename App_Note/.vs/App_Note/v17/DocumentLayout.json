@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\Completed\\Project-Note-taking-App\\Note-taking-App\\App_Note\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D965282-D76A-467A-9DB9-DB7672E5E080}|App_Note\\App_Note.csproj|E:\\C#\\Completed\\Project-Note-taking-App\\Note-taking-App\\App_Note\\app_note\\noteentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D965282-D76A-467A-9DB9-DB7672E5E080}|App_Note\\App_Note.csproj|solutionrelative:app_note\\noteentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D965282-D76A-467A-9DB9-DB7672E5E080}|App_Note\\App_Note.csproj|e:\\c#\\completed\\project-note-taking-app\\note-taking-app\\app_note\\app_note\\noteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D965282-D76A-467A-9DB9-DB7672E5E080}|App_Note\\App_Note.csproj|solutionrelative:app_note\\noteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D965282-D76A-467A-9DB9-DB7672E5E080}|App_Note\\App_Note.csproj|E:\\C#\\Completed\\Project-Note-taking-App\\Note-taking-App\\App_Note\\app_note\\noteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D965282-D76A-467A-9DB9-DB7672E5E080}|App_Note\\App_Note.csproj|solutionrelative:app_note\\noteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D965282-D76A-467A-9DB9-DB7672E5E080}|App_Note\\App_Note.csproj|e:\\c#\\completed\\project-note-taking-app\\note-taking-app\\app_note\\app_note\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D965282-D76A-467A-9DB9-DB7672E5E080}|App_Note\\App_Note.csproj|solutionrelative:app_note\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D965282-D76A-467A-9DB9-DB7672E5E080}|App_Note\\App_Note.csproj|e:\\c#\\completed\\project-note-taking-app\\note-taking-app\\app_note\\app_note\\1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{9D965282-D76A-467A-9DB9-DB7672E5E080}|App_Note\\App_Note.csproj|solutionrelative:app_note\\1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D965282-D76A-467A-9DB9-DB7672E5E080}|App_Note\\App_Note.csproj|E:\\C#\\Completed\\Project-Note-taking-App\\Note-taking-App\\App_Note\\app_note\\app_note.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D965282-D76A-467A-9DB9-DB7672E5E080}|App_Note\\App_Note.csproj|solutionrelative:app_note\\app_note.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "1.jpg - Bitmap [861x404, 24 bit, JPG]",
+              "DocumentMoniker": "E:\\C#\\Completed\\Project-Note-taking-App\\Note-taking-App\\App_Note\\App_Note\\1.jpg",
+              "RelativeDocumentMoniker": "App_Note\\1.jpg",
+              "ToolTip": "E:\\C#\\Completed\\Project-Note-taking-App\\Note-taking-App\\App_Note\\App_Note\\1.jpg - Bitmap [861x404, 24 bit, JPG]",
+              "RelativeToolTip": "App_Note\\1.jpg - Bitmap [861x404, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-15T15:21:14.838Z",
+              "EditorCaption": " - Bitmap [861x404, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\Completed\\Project-Note-taking-App\\Note-taking-App\\App_Note\\App_Note\\Program.cs",
+              "RelativeDocumentMoniker": "App_Note\\Program.cs",
+              "ToolTip": "E:\\C#\\Completed\\Project-Note-taking-App\\Note-taking-App\\App_Note\\App_Note\\Program.cs",
+              "RelativeToolTip": "App_Note\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T15:21:11.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App_Note",
+              "DocumentMoniker": "E:\\C#\\Completed\\Project-Note-taking-App\\Note-taking-App\\App_Note\\App_Note\\App_Note.csproj",
+              "RelativeDocumentMoniker": "App_Note\\App_Note.csproj",
+              "ToolTip": "E:\\C#\\Completed\\Project-Note-taking-App\\Note-taking-App\\App_Note\\App_Note\\App_Note.csproj",
+              "RelativeToolTip": "App_Note\\App_Note.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-22T21:37:06.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoteForm.cs",
+              "DocumentMoniker": "E:\\C#\\Completed\\Project-Note-taking-App\\Note-taking-App\\App_Note\\App_Note\\NoteForm.cs",
+              "RelativeDocumentMoniker": "App_Note\\NoteForm.cs",
+              "ToolTip": "E:\\C#\\Completed\\Project-Note-taking-App\\Note-taking-App\\App_Note\\App_Note\\NoteForm.cs",
+              "RelativeToolTip": "App_Note\\NoteForm.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAUwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T21:03:49.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NoteEntry.cs",
+              "DocumentMoniker": "E:\\C#\\Completed\\Project-Note-taking-App\\Note-taking-App\\App_Note\\App_Note\\NoteEntry.cs",
+              "RelativeDocumentMoniker": "App_Note\\NoteEntry.cs",
+              "ToolTip": "E:\\C#\\Completed\\Project-Note-taking-App\\Note-taking-App\\App_Note\\App_Note\\NoteEntry.cs",
+              "RelativeToolTip": "App_Note\\NoteEntry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T21:01:03.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NoteForm.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\Completed\\Project-Note-taking-App\\Note-taking-App\\App_Note\\App_Note\\NoteForm.cs",
+              "RelativeDocumentMoniker": "App_Note\\NoteForm.cs",
+              "ToolTip": "E:\\C#\\Completed\\Project-Note-taking-App\\Note-taking-App\\App_Note\\App_Note\\NoteForm.cs [Design]",
+              "RelativeToolTip": "App_Note\\NoteForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T20:59:54.982Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
